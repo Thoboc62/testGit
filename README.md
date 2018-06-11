@@ -1,1 +1,1 @@
-Bienvenue étranger !
+Bienvenue étrangere !
