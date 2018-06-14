@@ -1,1 +1,7 @@
-Test sur le master
+function A {
+
+}
+
+function B {
+
+}
